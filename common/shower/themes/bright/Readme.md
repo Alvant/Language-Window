@@ -1,10 +1,10 @@
-# Core for Shower [![Build Status](https://travis-ci.org/shower/core.svg?branch=master)](https://travis-ci.org/shower/core)
+# Bright theme for Shower
 
 Follow [@shower_me](https://twitter.com/shower_me) for support and updates
 
-To see Shower in action:
+To see Bright theme for Shower in action:
 
-- Open [shwr.me](http://shwr.me/)
+- Open [shwr.me/shower/themes/bright](http://shwr.me/shower/themes/bright/)
 - Click any slide to enter presentation mode
 - Use arrow keys or presenter remote to navigate
 - Press `Esc` to exit presentation mode

@@ -1,10 +1,10 @@
-# Core for Shower [![Build Status](https://travis-ci.org/shower/core.svg?branch=master)](https://travis-ci.org/shower/core)
+# Ribbon theme for Shower
 
 Follow [@shower_me](https://twitter.com/shower_me) for support and updates
 
-To see Shower in action:
+To see Ribbon theme for Shower in action:
 
-- Open [shwr.me](http://shwr.me/)
+- Open [shwr.me/shower/themes/ribbon](http://shwr.me/shower/themes/ribbon/)
 - Click any slide to enter presentation mode
 - Use arrow keys or presenter remote to navigate
 - Press `Esc` to exit presentation mode
