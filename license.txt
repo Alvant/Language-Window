@@ -1,0 +1,10 @@
+Made by Alvant
+
+Based on the article Language Acquisition by Steven Pinker, which is available under the link
+  http://users.ecs.soton.ac.uk/harnad/Papers/Py104/pinker.langacq.html
+
+The TV from slide 12 is borrowed from
+  https://codepen.io/Prashantsani/pen/FhgzA
+
+The Amusement Park from slide 15 is borrowed from
+  https://codepen.io/gxash/pen/YqmxWg
